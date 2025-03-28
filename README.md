@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/himanshurana2/himanshurana2/blob/fa706645a66e1a7ab43157996a7015d7006a7a23/Himanshu%20Rana" alt="Banner" width="100%" />
 </p>
-<h3 align="center">A passionate designer &developer from Bhilwara, Rajasthan, India</h3>
+<h3 align="center">A passionate designer & developer from Bhilwara, Rajasthan, India</h3>
 
 ---
 
